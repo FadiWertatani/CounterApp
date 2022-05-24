@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">android_kotlin_learning</string>
+    <string name="hi_m_fadi">Hi\'m Fadi</string>
+    <string name="welcome">Lets Count Together</string>
+    <string name="count">Count</string>
+    <string name="reset">Reset</string>
+</resources>
